@@ -6,10 +6,10 @@ const products = [
   {
     id: 1,
     title: 'Air Force',
-    price: 119,
+    price: 1,
     colors: [
       {
-        code: 'black',
+        code: 'blue',
         img: './img/air.png',
       },
       {
